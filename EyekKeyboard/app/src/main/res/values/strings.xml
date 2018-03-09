@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EyekKeyboard</string>
+    <string name="simple_ime">Eyek Keyboard</string>
+    <string name="subtype_en_US">Meetei Mayek</string>
+
+</resources>
